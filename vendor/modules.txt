@@ -1,0 +1,2 @@
+# github.com/hooklift/gowsdl v0.3.1
+github.com/hooklift/gowsdl/soap
