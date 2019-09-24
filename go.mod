@@ -1,4 +1,4 @@
-module soap
+module github.com/gigoox/go-soap-client-test
 
 go 1.12
 
